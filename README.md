@@ -135,6 +135,16 @@ iii. Verify:
 + In the Streamlit UI you can override the model name (input labeled Ollama Model (select model installed on your device)). Ensure you match the exact model name visible in ollama ls.
 
 ## Screenshots (Input & Output)
+**Input:** What is Java ? 
+<img width="1508" height="941" alt="image" src="https://github.com/user-attachments/assets/271f88e2-1e55-4a5c-9fd4-e3e18261582f" />
+<img width="1902" height="935" alt="image" src="https://github.com/user-attachments/assets/19be47b1-960f-462e-97eb-19f2ae33106d" />
+**Output:**
+<img width="1868" height="901" alt="image" src="https://github.com/user-attachments/assets/291e159a-60ad-417b-bc29-6fdb79bcf457" />
+<img width="1918" height="932" alt="image" src="https://github.com/user-attachments/assets/660e390e-de18-4002-9e67-6e7af31489c6" />
+
+
+
+
 ## License 
 MIT License
 
